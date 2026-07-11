@@ -133,48 +133,11 @@ The project follows the principles of Object-Oriented Programming (OOP).
 | Payment | Payment records and revenue |
 | FileManager | Reading and writing text files |
 
-
-🔄 System Workflow
-
-
-                 Start
-                    │
-                    ▼
-             Main Menu
-                    │
-     ┌──────────────┼──────────────┐
-     ▼              ▼              ▼
- Customer       Order         Payment
- Management    Management    Management
-     │              │              │
-     └──────────────┼──────────────┘
-                    ▼
-          Save Data into TXT Files
-                    │
-                    ▼
-                  Exit
-
-![Dash board](screenshots/dashboard.png)
-![Customer Management](screenshots/customer.png)
-![Order Management](screenshots/orders.png)
-![Payment Management](screenshots/payments.png)
-
-
-📂 Project Structure
-
-
-TailorTrack/
-│
-├── README.md
-├── PL-(TailorTracker).ipynb
-├── tailortrack_v2.py
-├── sample_data.py
-│
-├── customers.txt
-├── orders.txt
-├── payments.txt
-└── visuals
-
+Screenshots of the dashboard
+![Dash board](visuals/dashboard.png)
+![Customer Management](visuals/customer.png)
+![Order Management](visuals/orders.png)
+![Payment Management](visuals/payments.png)
 
 🚀 Future Improvements
 
