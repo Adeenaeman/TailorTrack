@@ -68,7 +68,7 @@ Exit
 ```
 Each section contains its own submenu for managing records.
 
-Add Installation Steps
+Installation Steps
 
 Run the CLI Version
 Open
