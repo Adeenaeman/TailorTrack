@@ -133,11 +133,15 @@ The project follows the principles of Object-Oriented Programming (OOP).
 | Payment | Payment records and revenue |
 | FileManager | Reading and writing text files |
 
-Screenshots of the dashboard
-![Dash board](visuals/dashboard.png)
-![Customer Management](visuals/customer.png)
-![Order Management](visuals/orders.png)
-![Payment Management](visuals/payments.png)
+📸 GUI Preview
+Dashboard
+<img src="visuals/dashboard.png" width="700">
+Customer Management
+<img src="visuals/customers.png" width="700">
+Order Management
+<img src="visuals/orders.png" width="700">
+Payment Management
+<img src="visuals/payments.png" width="700">
 
 🚀 Future Improvements
 
