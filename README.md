@@ -1,4 +1,4 @@
-🧵 TailorTrack
+🧵 TailorTracker
  "Smart Order & Measurement Management System for Local Tailors" 
 
  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -11,7 +11,7 @@
 
 📌 Overview
 
-TailorTrack is a Python-based Tailoring Management System developed to help tailoring businesses digitize their daily operations.
+TailorTracker is a Python-based Tailoring Management System developed to help tailoring businesses digitize their daily operations.
 
 Instead of relying on paper registers, TailorTrack securely stores records digitally, making customer management faster, more accurate, and easier to maintain.
 
