@@ -134,14 +134,23 @@ The project follows the principles of Object-Oriented Programming (OOP).
 | FileManager | Reading and writing text files |
 
 📸 GUI Preview
+
 Dashboard
+
 <img src="visuals/dashboard.png" width="700">
+
 Customer Management
-<img src="visuals/customers.png" width="700">
+
+<img src="visuals/customer.png" width="700">
+
 Order Management
+
 <img src="visuals/orders.png" width="700">
+
 Payment Management
+
 <img src="visuals/payments.png" width="700">
+
 
 🚀 Future Improvements
 
